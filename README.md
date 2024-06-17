@@ -68,3 +68,9 @@ Password : admin
 ![18](https://github.com/pillaiganeshmohan/E-Learning-Website/assets/68379838/fb0b4928-484f-42c8-98b9-3b99968c1706)
 
 ![19](https://github.com/pillaiganeshmohan/E-Learning-Website/assets/68379838/a6ec33c0-6273-4658-9f18-0f0a794395ec)
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the **Apache-2.0 License**. See the [LICENSE](./LICENSE) file for details.
